@@ -1,1 +1,1 @@
-# Automatic Collection
+# Automatic Collect
